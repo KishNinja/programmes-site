@@ -1,7 +1,9 @@
 function Welcome() {
     console.log("Welocome To Git naxyi")
 
-    function bue() {
-        console.log("Bue man")
+    function hello() {
+        console.log("Hello man")
     }
+
+    console.log("Hello man")
 }
