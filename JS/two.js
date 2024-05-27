@@ -32,6 +32,4 @@ function complexFunction3() {
     }
     
     return result;
-    return result;
-    return result;
 }
