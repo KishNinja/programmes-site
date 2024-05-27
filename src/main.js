@@ -7,3 +7,28 @@ function Welcome() {
 
     console.log("Hello man")
 }
+
+function bue() {
+    console.log("bue nikk")
+}
+
+if (1 > 2) {
+    console.log("Hello World")
+}else {
+    console.log("Bue World")
+}
+
+function bue() {
+    console.log("bue nikk")
+}
+
+
+
+function bue() {
+    console.log("bue nikk")
+}
+
+
+function bue() {
+    console.log("bue nikk")
+}

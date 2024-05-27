@@ -1,9 +1,12 @@
-function Welcome() {
-    console.log("Welocome To Git naxyi")
-
-    function hello() {
-        console.log("Hello mans")
+function solution(str){
+    total = ""
+    for (i in str) {
+        totral += i
     }
 
     console.log("Hello man")
 }
+
+let a = 0;
+
+s = "12"
