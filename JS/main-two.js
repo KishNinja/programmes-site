@@ -12,6 +12,12 @@ function bue() {
     console.log("bue nikk")
 }
 
+function lkkl(goig) {
+    if (goig == "ManState") {
+        console.log("hello Man")
+    };
+}
+
 if (1 > 2) {
     console.log("Hello World")
 }else {
@@ -22,11 +28,6 @@ function bue() {
     console.log("bue nikk")
 }
 
-
-
-function bue() {
-    console.log("bue nikk")
-}
 
 
 function bue() {

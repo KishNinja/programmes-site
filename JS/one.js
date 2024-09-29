@@ -7,6 +7,6 @@ function solution(str){
     console.log("Hello man")
 }
 
-let a = 0;
-
-s = "12"
+function answer(one, two) {
+    console.log(one + two);
+}
