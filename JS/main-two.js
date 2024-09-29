@@ -28,6 +28,10 @@ function bue() {
     console.log("bue nikk")
 }
 
+function color() {
+    console.log("hello color")
+}
+
 
 
 function bue() {
